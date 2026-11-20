@@ -1,6 +1,6 @@
 # Ex.No.3-Explaing the following Prompt Engineering types with examples - Straightforward Prompts - Tabular Format Prompting - Missing Word Prompting - Preceding Question Prompting.
 
-### DATE: 17-11-2026  
+### DATE: 20-11-2026  
 ### NAME: Navaneeth S
 ### REGISTER NUMBER : 212225240097
 
